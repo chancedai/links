@@ -1135,7 +1135,8 @@ pre .javascript .function {
     color: #fff;
   }
 }
-#comments #SOHUCS #SOHU_MAIN .module-cmt-footer .section-service-w .service-wrap-w a {
+#comments #SOHUCS #SOHU_MAIN .module-cmt-footer .section-service-w .service-wrap-w a,
+#comments #SOHUCS #SOHU_MAIN .module-mobile-cmt-list .list-footer-wrapper-wap .cy-logo {
   display: none !important;
 }
 .view-all,
