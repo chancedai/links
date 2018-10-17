@@ -498,14 +498,14 @@ body {
   margin: 0 12px 1em;
 }
 .article-header {
-  padding: 20px 20px 0;
+  padding: 20px 20px 20px;
 }
 .article-title {
   text-decoration: none;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
-  color: #555;
-  line-height: 1.1em;
+  color: #000;
+  line-height: 1.3em;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
   -ms-transition: color 0.2s;
@@ -515,7 +515,8 @@ a.article-title:hover {
   color: #258fb8;
 }
 .article-entry {
-  color: #555;
+  font-size: 1.2em;
+  color: #333;
   padding: 0 20px;
 }
 .article-entry:before,
@@ -545,8 +546,8 @@ a.article-title:hover {
 .article-entry h4,
 .article-entry h5,
 .article-entry h6 {
-  line-height: 1.1em;
-  margin: 1.1em 0;
+  line-height: 1.3em;
+  margin: 1.3em 0;
 }
 .article-entry a {
   color: #258fb8;
